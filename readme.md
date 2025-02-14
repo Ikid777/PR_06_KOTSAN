@@ -25,7 +25,7 @@ def say_hello(name):
     """Функция выводит приветствие."""
     print(f"Привет, {name}!")
 
-
+```
 [Google](https://www.google.com)
 
-🤔 ✅
+:smile :sweat_drops :angel
