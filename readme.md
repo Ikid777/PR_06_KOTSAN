@@ -28,4 +28,4 @@ def say_hello(name):
 ```
 [Google](https://www.google.com)
 
-:smile :sweat_drops :angel
+:smile: :sweat_drops: :angel:
